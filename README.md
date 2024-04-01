@@ -1,2 +1,2 @@
 # client
-study_camp_phasor_client
+study_camp_phaser_client
